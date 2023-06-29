@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tour-plan-with-ram/static/css/main.34825673.css",
+    "main.js": "/tour-plan-with-ram/static/js/main.346bb9d4.js",
+    "static/js/787.c4629ff3.chunk.js": "/tour-plan-with-ram/static/js/787.c4629ff3.chunk.js",
+    "index.html": "/tour-plan-with-ram/index.html",
+    "main.34825673.css.map": "/tour-plan-with-ram/static/css/main.34825673.css.map",
+    "main.346bb9d4.js.map": "/tour-plan-with-ram/static/js/main.346bb9d4.js.map",
+    "787.c4629ff3.chunk.js.map": "/tour-plan-with-ram/static/js/787.c4629ff3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34825673.css",
+    "static/js/main.346bb9d4.js"
+  ]
+}
